@@ -1,0 +1,3 @@
+﻿0.2.0
+https://raw.githubusercontent.com/Teufel2211/supermarket-moreplayers/main/MorePlayers.dll
+ff22d1c17cf8469de137a2d4f7b9f4aa7fb079cc239bf7e0bf33048bb9beacba
